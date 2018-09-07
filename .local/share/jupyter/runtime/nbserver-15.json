@@ -1,0 +1,11 @@
+{
+  "base_url": "/jupyter/user/jchalatu/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jchalatu",
+  "password": false,
+  "pid": 15,
+  "port": 8888,
+  "secure": false,
+  "token": "",
+  "url": "http://0.0.0.0:8888/jupyter/user/jchalatu/"
+}
